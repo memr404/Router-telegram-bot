@@ -12,7 +12,7 @@
 ## Установка
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/memr404/Router-telegram-bot
    ```
 
 
